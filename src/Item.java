@@ -1,7 +1,7 @@
-public class GameMode {
+public class Item{
     private String name;
 
-    public GameMode(String name){
+    public Item(String name){
         this.name = name;
     }
 

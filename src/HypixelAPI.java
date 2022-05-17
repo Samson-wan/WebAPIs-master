@@ -12,8 +12,7 @@ import java.util.Scanner;
 public class HypixelAPI {
 
     public static void main(String[] args) {
-        String APIkey = "65390b16-ad31-4c9a-877b-64cf031212bc";
-
+        String APIkey = "";
         System.out.print("What is your Minecraft Username? ");
         Scanner s = new Scanner(System.in);
         String name = s.nextLine();
